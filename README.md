@@ -8,9 +8,6 @@ Additionally, it closes any introductory dialogs that appear shortly after loadi
 
 The script utilizes Selenium to interact with the web interface, enabling automatic navigation and user monitoring. 
 
-This is a just for fun project.
-
-
 ## 🎮 Features
 
     Random Metaverse Switching: The script connects to different metaverses and switches between them when it detects multiple users in the space.
@@ -25,21 +22,20 @@ This is a just for fun project.
 
 ## 📝 Installation
 
-```Clone the repository:
+Clone the repository:
 
-git clone https://github.com/yourusername/metaverse-auto-switcher.git
+`git clone https://github.com/yourusername/metaverse-auto-switcher.git`
 
 Install the necessary dependencies:
 
-pip install selenium
+`pip install selenium`
 
 Download geckodriver (for Firefox) from here and place it in the appropriate directory (update the path in the script accordingly).
 
 Run the script:
 
-    python metaverse_auto_switcher.py
+`python metaverse_auto_switcher.py`
 
-```
 
 ## 🔍 How It Works
 
