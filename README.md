@@ -1,6 +1,6 @@
 # 🛸 Metaverse Auto-Switcher
 
-This project is a Python script that randomly connects to different metaverses on the Spatial.io platform. 
+A Python script that randomly connects to different metaverses on the Spatial.io platform. 
 
 The script automatically switches to another metaverse when it detects more than one user in the current space. 
 
