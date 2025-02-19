@@ -14,6 +14,9 @@ The script utilizes Selenium to interact with the web interface, enabling automa
     Dialog Auto-Closing: Automatically closes the introductory dialog after a few seconds to provide a smoother user experience.
     User Monitoring: Monitors the number of users in the metaverse and switches if more than one user is detected.
 
+## 💻 Demo
+Youtube + imagen
+
 ## ⚙️ Requirements
 
     Python 3
