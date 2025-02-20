@@ -33,7 +33,7 @@ Install the necessary dependencies:
 
 `pip install selenium`
 
-Download geckodriver (for Firefox) from here and place it in the appropriate directory (update the path in the script accordingly).
+Download geckodriver (for Firefox) from [here](https://github.com/mozilla/geckodriver/releases) and place it in the appropriate directory (update the path in the script accordingly).
 
 Run the script:
 
@@ -44,7 +44,7 @@ Run the script:
 
     The script connects to a metaverse URL and waits for the "People" section to become visible.
     It then checks the number of people in the space, and if there is more than one user, it switches to a new metaverse randomly chosen from a predefined list.
-    The script continuously monitors user presence, switching between metaverses and closing any dialog boxes that appear.
+    The script continuously monitors user presence, switching between metaverses.
 
 ## 📝 Notes
 
