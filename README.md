@@ -15,7 +15,9 @@ The script utilizes Selenium to interact with the web interface, enabling automa
     User Monitoring: Monitors the number of users in the metaverse and switches if more than one user is detected.
 
 ## 💻 Demo
-Youtube + imagen
+
+[Demo](https://youtu.be/YirResQc7ak)
+![Alt text](screenshot.jpg)
 
 ## ⚙️ Requirements
 
