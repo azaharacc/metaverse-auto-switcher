@@ -30,7 +30,7 @@ The script utilizes Selenium to interact with the web interface, enabling automa
 
 Clone the repository:
 
-`git clone https://github.com/yourusername/metaverse-auto-switcher.git`
+`git clone https://github.com/azaharacc/metaverse_auto_switcher.git`
 
 Install the necessary dependencies:
 
