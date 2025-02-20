@@ -40,7 +40,7 @@ Download geckodriver (for Firefox) from [here](https://github.com/mozilla/geckod
 
 Run the script:
 
-`python metaverse_auto_switcher.py`
+`python spatial.py`
 
 
 ## 🔍 How It Works
