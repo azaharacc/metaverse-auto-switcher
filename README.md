@@ -17,6 +17,7 @@ The script utilizes Selenium to interact with the web interface, enabling automa
 ## 💻 Demo
 
 [Demo](https://youtu.be/YirResQc7ak)
+
 ![Alt text](screenshot.jpg)
 
 ## ⚙️ Requirements
