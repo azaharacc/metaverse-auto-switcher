@@ -10,9 +10,9 @@ The script utilizes Selenium to interact with the web interface, enabling automa
 
 ## 🎮 Features
 
-    Random Metaverse Switching: The script connects to different metaverses and switches between them when it detects multiple users in the space.
-    Dialog Auto-Closing: Automatically closes the introductory dialog after a few seconds to provide a smoother user experience.
-    User Monitoring: Monitors the number of users in the metaverse and switches if more than one user is detected.
+· Random Metaverse Switching: The script connects to different metaverses and switches between them when it detects multiple users in the space.
+· Dialog Auto-Closing: Automatically closes the introductory dialog after a few seconds to provide a smoother user experience.
+· User Monitoring: Monitors the number of users in the metaverse and switches if more than one user is detected.
 
 ## 💻 Demo
 
@@ -22,9 +22,9 @@ The script utilizes Selenium to interact with the web interface, enabling automa
 
 ## ⚙️ Requirements
 
-    Python 3
-    Selenium
-    Firefox WebDriver (geckodriver)
+Python 3
+Selenium
+Firefox WebDriver (geckodriver)
 
 ## 📝 Installation
 
@@ -45,12 +45,12 @@ Run the script:
 
 ## 🔍 How It Works
 
-    The script connects to a metaverse URL and waits for the "People" section to become visible.
-    It then checks the number of people in the space, and if there is more than one user, it switches to a new metaverse randomly chosen from a predefined list.
-    The script continuously monitors user presence, switching between metaverses.
+The script connects to a metaverse URL and waits for the "People" section to become visible.
+It then checks the number of people in the space, and if there is more than one user, it switches to a new metaverse randomly chosen from a predefined list.
+The script continuously monitors user presence, switching between metaverses.
 
 ## 📝 Notes
 
-    This project was created purely for fun and as a demonstration of how automation can interact with virtual spaces.
-    The script uses hardcoded metaverse URLs. You can easily add or modify the list of URLs to suit your needs.
+This project was created purely for fun and as a demonstration of how automation can interact with virtual spaces.
+The script uses hardcoded metaverse URLs. You can easily add or modify the list of URLs to suit your needs.
 
