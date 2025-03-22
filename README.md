@@ -10,9 +10,9 @@ The script utilizes Selenium to interact with the web interface, enabling automa
 
 ## 🎮 Features
 
-· Random Metaverse Switching: The script connects to different metaverses and switches between them when it detects multiple users in the space.
-· Dialog Auto-Closing: Automatically closes the introductory dialog after a few seconds to provide a smoother user experience.
-· User Monitoring: Monitors the number of users in the metaverse and switches if more than one user is detected.
+- Random Metaverse Switching: The script connects to different metaverses and switches between them when it detects multiple users in the space.  
+- Dialog Auto-Closing: Automatically closes the introductory dialog after a few seconds to provide a smoother user experience.  
+- User Monitoring: Monitors the number of users in the metaverse and switches if more than one user is detected.  
 
 ## 💻 Demo
 
